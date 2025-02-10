@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- <button onclick="message()">
+        НЕ жми
+    </button> -->
+
+    <!-- <button onclick="message(this)">
+        Круто че
+    </button> -->
+
+    <!-- <p id= "id">Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure fugiat tempore hic dolores tempora, quo eius neque ullam ab alias consequuntur sed dignissimos, placeat quae temporibus impedit sunt quisquam dicta qui rerum!</p>
+
+    <span>Span 1</span>
+    <span>Span 2</span>
+    <span>Span 3</span> -->
+
+
+    <form id="main-form" onsubmit="checkForm(event)">
+
+        <label for="name">Имя:</label>
+        <input type="text" name="name" placeholder="Имя" id="name"><br><br>
+
+
+        <label for="password">Пароль:</label>
+        <input type="password" name="pass" placeholder="Пароль" id="pass"><br><br>
+
+
+        <label for="repass">Проверка пароля:</label>
+        <input type="password" name="repass" placeholder="Проверка пароля" id="repass" ><br><br>
+
+
+        <span>Пол:</span>
+        <input type="radio" name="state" id="male" value="мужской">
+        <label for="male">Мужской</label>
+        <input type="radio" name="state" id="female" value="женский">
+        <label for="female">Женский</label><br><br>
+
+
+        <input type="submit" name="submit" value="Готово">
+
+    </form>
+
+    <script src="./main.js"></script>
+</body>
+</html>

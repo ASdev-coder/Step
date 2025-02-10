@@ -1,0 +1,21 @@
+.orange{
+    background-color: orange;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.silver{
+    background-color: silver;
+}
+
+.border-left-right{
+    border-left: 5px white solid ;
+    border-right: 5px white solid ;
+}
+

@@ -1,0 +1,17 @@
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\bin\Debug\net8.0\07_delegates.exe
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\bin\Debug\net8.0\07_delegates.deps.json
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\bin\Debug\net8.0\07_delegates.runtimeconfig.json
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\bin\Debug\net8.0\07_delegates.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\bin\Debug\net8.0\07_delegates.pdb
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\obj\Debug\net8.0\07_delegates.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\obj\Debug\net8.0\07_delegates.AssemblyInfoInputs.cache
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\obj\Debug\net8.0\07_delegates.AssemblyInfo.cs
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\obj\Debug\net8.0\07_delegates.csproj.CoreCompileInputs.cache
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\obj\Debug\net8.0\07_delegates.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\obj\Debug\net8.0\refint\07_delegates.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\obj\Debug\net8.0\07_delegates.pdb
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\obj\Debug\net8.0\07_delegates.genruntimeconfig.cache
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\obj\Debug\net8.0\ref\07_delegates.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\bin\Debug\net8.0\Spectre.Console.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\obj\Debug\net8.0\07_delegates.csproj.AssemblyReference.cache
+\\Mac\itstep\projects\p31\p31_cs\02_oop\07_delegates\obj\Debug\net8.0\07_deleg.D93E563C.Up2Date

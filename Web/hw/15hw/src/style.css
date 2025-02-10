@@ -1,0 +1,230 @@
+body{
+    margin: 0;
+    background-color: #eaedf0;
+    font-family: "Calibri", sans-serif;
+    color: #5d6063;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
+    gap: 15px;
+    min-height: 100vh;
+    margin: 20px 15px ;
+}
+
+.col{
+    padding: 10px;
+    background-color: azure;
+    border: 2px #dcdfe1 solid;
+    border-radius: 5px;
+    background-color: #f6f7f8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.text{
+    width: 55%;
+    text-align: center;
+}
+
+.text h1{
+    margin-bottom: 0px;
+}
+
+.text p{
+    margin-top: 8px;
+}
+
+input{
+    border: 2px #dcdfe1 solid;
+    border-radius: 5px;
+    height: 28px;
+    display: flex;
+    justify-content: flex-start;
+    padding: 0;
+    margin: 5px 0px;
+    cursor: pointer;
+}
+
+select{
+    border: 2px #dcdfe1 solid;
+    border-radius: 5px;
+    min-height: 31px;
+    color: #5d6063;
+    font-weight: 500;
+}
+
+textarea{
+    border: 2px #dcdfe1 solid;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 0;
+    width: 100%;
+}
+
+button{
+    background-color: #5995da;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    width: 100%;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 15px;
+    transition: all .5s;
+}
+
+.second-col{
+    display: flex;
+    align-items: flex-start;
+}
+
+.input{
+    width: 100%;
+    padding-top: 10px;
+}
+
+#name{
+    width: 100%;
+    
+}
+
+#email{
+    width: 100%;
+}
+
+.talk-type{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.right-here{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.right-here label{
+    padding-left: 5px;
+}
+
+.input p{
+    margin-bottom: 0px;
+}
+
+.in-column{
+    display: flex;
+    flex-direction: column;
+}
+.in-column p{
+    margin: 0px 0px 5px 0px;
+}
+
+.text-under-comments{
+    color: #b6b6b6;
+}
+
+.input .right-here{
+    padding: 15px 0px 30px 0px;
+}
+
+button:hover{
+    background-color: #274363;
+    border-radius: 5px;
+    border: none;
+    color: white;
+    width: 100%;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 15px;
+}
+
+
+@media screen and (min-width: 768px ) {
+    .container{
+        margin: 25px 50px;
+    }
+    
+    .col .input{
+        padding-bottom: 25px;
+        padding-top: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    #name{
+        width: 60%;
+        margin-left: 15px;
+    }
+    #email{
+        width: 60%;
+        margin-left: 15px;
+    }
+
+    .input p{
+        margin: 0;
+    }
+
+    .input .right-here{
+        padding: 0;
+    }
+
+    .padding-md-right{
+        padding-right: 40px;
+    }
+
+    .col{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 30px;
+    }
+
+    .in-md-row{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+        width: 80%;
+    }
+
+    select{
+        border: 2px #dcdfe1 solid;
+        border-radius: 5px;
+        min-height: 31px;
+        color: #5d6063;
+        font-weight: 500;
+        width: 60%;
+    }
+
+    #comment{
+        align-items: flex-start;
+        justify-content: space-around;
+    }
+
+    button{
+        background-color: #5995da;
+        border-radius: 5px;
+        border: none;
+        color: white;
+        width: 40%;
+        font-weight: 700;
+        font-size: 18px;
+        padding: 15px;
+    }
+
+    button:hover{
+        width: 40%;
+    }
+
+    .talk-type{
+        width: 50%;
+    }
+}

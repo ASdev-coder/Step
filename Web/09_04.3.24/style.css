@@ -1,0 +1,93 @@
+body {
+    height: 2000px;
+}
+
+.block {
+    border: 1px black solid;
+    width: 50px;
+    height: 50px;
+}
+
+.red {
+    background-color: red;
+    position: absolute;
+    /*при позиції абсолют - елемент вирізається (інші теги його не бачать) і стає на своє місце, але поверх всіх інших тегів
+    початок координат - один з кутів документа
+    */
+    top: 80px;
+    left: 20px;
+    z-index: 1;
+}
+
+.green {
+    background-color: green;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    /*початок координат - один з кутів самого тега
+    переміщення тега, його початкове місце резервується
+    */
+}
+
+.blue {
+    background-color: blue;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    /*при позиції фіксед - елемент вирізається (інші теги його не бачать) і стає на своє місце, але поверх всіх інших тегів та елемент залишається та не прокручується зі сторінкою.
+    початок координат - один з кутів документа
+    */
+}
+
+.orange {
+    background-color: orange;
+    position: sticky;
+    top: 10px;
+    z-index: 2;
+}
+.example{
+    background-color: grey;
+    height: 50px;
+    width: 200px;
+    position: relative;
+
+}
+.aqua{
+    background-color: aqua;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    top:0;
+    right: 0;
+}
+
+/*Якщо батьківському тегу буде задано будь-яке позиціювання (найчастіше relative), а дочірньому аbsolute, то початком кординат для дочірнього тега являється один з кутів батьківського*/
+
+.product{
+    position: relative;
+    padding: 15px;
+}
+
+.icon{
+    background-color: red;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #eeeeee70;
+    padding: 10px;
+    color: orange;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.icon:hover{
+    background-color: antiquewhite;
+}
+
+.product img{
+    margin: auto;
+}
+
+.products .col{
+    border-right: 1px #ddd solid;
+    border-bottom: 1px #ddd solid;
+}

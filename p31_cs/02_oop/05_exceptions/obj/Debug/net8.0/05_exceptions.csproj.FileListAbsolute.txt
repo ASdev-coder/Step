@@ -1,0 +1,28 @@
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\bin\Debug\net8.0\05_exceptions.exe
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\bin\Debug\net8.0\05_exceptions.deps.json
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\bin\Debug\net8.0\05_exceptions.runtimeconfig.json
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\bin\Debug\net8.0\05_exceptions.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\bin\Debug\net8.0\05_exceptions.pdb
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.AssemblyInfoInputs.cache
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.AssemblyInfo.cs
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.csproj.CoreCompileInputs.cache
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\refint\05_exceptions.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.pdb
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.genruntimeconfig.cache
+\\Mac\itstep\projects\p31\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\ref\05_exceptions.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\bin\Debug\net8.0\05_exceptions.exe
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\bin\Debug\net8.0\05_exceptions.deps.json
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\bin\Debug\net8.0\05_exceptions.runtimeconfig.json
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\bin\Debug\net8.0\05_exceptions.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\bin\Debug\net8.0\05_exceptions.pdb
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.AssemblyInfoInputs.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.AssemblyInfo.cs
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.csproj.CoreCompileInputs.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\refint\05_exceptions.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.pdb
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\05_exceptions.genruntimeconfig.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\05_exceptions\obj\Debug\net8.0\ref\05_exceptions.dll

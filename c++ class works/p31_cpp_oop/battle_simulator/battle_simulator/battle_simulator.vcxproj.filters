@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\units">
+      <UniqueIdentifier>{b4e2fd73-b2bd-4615-80f3-ff00e8dd9627}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\units">
+      <UniqueIdentifier>{dbdcfaf0-8e66-4ffe-aa4f-8435945997a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\configs">
+      <UniqueIdentifier>{13bf2ac9-9c4e-43cc-8b6a-1264ad92cc9a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\things">
+      <UniqueIdentifier>{4adde406-f825-40e8-a897-aed8f3a5ef1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\things">
+      <UniqueIdentifier>{61be514a-3e1f-4895-9c6b-8bdf47759bde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\things\armor">
+      <UniqueIdentifier>{c649a746-e548-4273-858b-5c8e8e6df71d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\things\weapon">
+      <UniqueIdentifier>{91c7ba63-d257-42c1-be19-d671903dd5bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\things\armor">
+      <UniqueIdentifier>{6450b138-d406-4639-958f-227d038d81ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\things\weapon">
+      <UniqueIdentifier>{ca5a65e3-3a56-4e6e-89b7-4d4f126dc11c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="battle_simulator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Unit.cpp">
+      <Filter>Source Files\units</Filter>
+    </ClCompile>
+    <ClCompile Include="Point.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="AbilityCard.cpp">
+      <Filter>Source Files\units</Filter>
+    </ClCompile>
+    <ClCompile Include="Backpack.cpp">
+      <Filter>Source Files\units</Filter>
+    </ClCompile>
+    <ClCompile Include="Thing.cpp">
+      <Filter>Source Files\things</Filter>
+    </ClCompile>
+    <ClCompile Include="Armor.cpp">
+      <Filter>Source Files\things\armor</Filter>
+    </ClCompile>
+    <ClCompile Include="Helmet.cpp">
+      <Filter>Source Files\things\armor</Filter>
+    </ClCompile>
+    <ClCompile Include="Outerwear.cpp">
+      <Filter>Source Files\things\armor</Filter>
+    </ClCompile>
+    <ClCompile Include="Bow.cpp">
+      <Filter>Source Files\things\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Sward.cpp">
+      <Filter>Source Files\things\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="Weapon.cpp">
+      <Filter>Source Files\things\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="UnitBody.cpp">
+      <Filter>Source Files\units</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Unit.h">
+      <Filter>Header Files\units</Filter>
+    </ClInclude>
+    <ClInclude Include="Point.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="AbilityCard.h">
+      <Filter>Header Files\units</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitConfig.h">
+      <Filter>Header Files\configs</Filter>
+    </ClInclude>
+    <ClInclude Include="Backpack.h">
+      <Filter>Header Files\units</Filter>
+    </ClInclude>
+    <ClInclude Include="Thing.h">
+      <Filter>Header Files\things</Filter>
+    </ClInclude>
+    <ClInclude Include="Armor.h">
+      <Filter>Header Files\things\armor</Filter>
+    </ClInclude>
+    <ClInclude Include="Helmet.h">
+      <Filter>Header Files\things\armor</Filter>
+    </ClInclude>
+    <ClInclude Include="Outerwear.h">
+      <Filter>Header Files\things\armor</Filter>
+    </ClInclude>
+    <ClInclude Include="Bow.h">
+      <Filter>Header Files\things\weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Sward.h">
+      <Filter>Header Files\things\weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="Weapon.h">
+      <Filter>Header Files\things\weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitBody.h">
+      <Filter>Header Files\units</Filter>
+    </ClInclude>
+    <ClInclude Include="BodyParts.h">
+      <Filter>Header Files\units</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>

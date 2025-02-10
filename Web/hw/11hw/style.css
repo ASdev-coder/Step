@@ -1,0 +1,311 @@
+body{
+    font-family: 'Raleway', Arial, sans-serif;
+    background-color: hsl(220, 9%, 20%);
+}
+
+.text-centre{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1 span::after{
+    content: "";
+    display: block;
+    border-top: 1px red solid;
+    width: 100px;
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    margin-left: 20px;
+    transform: translateY(-50%);
+}
+
+h1{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+}
+
+h1 span{
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+}
+
+h1 span:before{
+    content: "";
+    display: block;
+    border-bottom: 1px red solid;
+    width: 100px;
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    margin-right: 20px;
+    transform: translateY(-50%);
+}
+
+.glowing-ruby{
+    overflow: hidden;
+    background-color: #3085a3;
+    position: relative;
+    width: 417.341px;
+    height: 313px;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+.glowing-ruby .text-ruby{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: white;
+}
+
+.text-ruby .p-ruby{
+    width: 60%;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: lighter;
+}
+
+.glowing-ruby img{
+    transform: scale(1.2);
+    opacity: 0.7;
+    transition: all 0.5s;
+}
+
+.glowing-ruby:hover img{
+    transform: scale(1);
+    opacity: 0.5;
+}
+
+
+.glowing-ruby::before{
+    content: "";
+    border-top: 1px white solid;
+    border-bottom: 1px white solid;
+    position: absolute;
+    top: 140px;
+    left: 20px;
+    right: 20px;
+    bottom: 70px;
+    z-index: 1;
+    opacity: 0;
+    transition: all .4s;
+    transform: translateY(10px);
+}
+
+.glowing-ruby::after{
+    content: "";
+    border-left: 1px white solid;
+    border-right: 1px white solid;
+    position: absolute;
+    top: 140px;
+    left: 20px;
+    right: 20px;
+    bottom: 70px;
+    z-index: 1;
+    opacity: 0;
+    transition: all .4s;
+    transform: translateY(10px);
+}
+
+.glowing-ruby:hover::before{
+    opacity: 1;
+    transform: translateY(-10px);
+}
+
+.glowing-ruby:hover::after{
+    opacity: 1;
+    transform: translateY(-10px);
+}
+
+.text-ruby .h2-ruby{
+    margin-bottom: 25px;
+    transform: translateY(10px);
+    transition: all .4s;
+    text-transform: uppercase;
+}
+
+.text-ruby .p-ruby{
+    transform: translateY(10px);
+    opacity: 0;
+    transition: all .4s;
+}
+
+.dexter{
+    transition: all 0.5s;
+}
+
+.glowing-ruby:hover .p-ruby{
+    transform: translateY(-10px);
+    opacity: 1;
+}
+
+.glowing-ruby:hover .h2-ruby{
+    transform: translateY(-15px);
+}
+
+.text-dexter .h2-dexter{
+    text-transform: uppercase;
+}
+
+.text-dexter .p-dexter{
+    text-transform: uppercase;
+}
+
+.strange-dexter{
+    position: relative;
+    width: 417.341px;
+    height: 313px;
+    background: rgb(214, 185, 57);
+    background: linear-gradient(0deg, rgb(219, 188, 47) 0%, rgb(66, 188, 218) 60%, rgb(98, 174, 212) 100%);
+    opacity: 1;
+    transition: all .5s;
+}
+
+.strange-dexter .text-dexter{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    padding-left: 45px;
+    flex-direction: column;
+    color: white;
+}
+
+.text-dexter .p-dexter{
+    width: 80%;
+    font-size: 14px;
+    opacity: 0;
+    transition: all 0.4s;
+}
+
+.text-dexter .h2-dexter{
+    transform: translateY(-60px);
+}
+
+.strange-dexter:hover img{
+    opacity: 0.8;
+}
+
+.strange-dexter::before{
+    content: "";
+    border-top: 6px white solid;
+    border-bottom: 6px white solid;
+    position: absolute;
+    top: 140px;
+    left: 20px;
+    right: 20px;
+    bottom: 50px;
+    z-index: 1;
+    transition: all .4s;
+    transform: translateY(-110px);
+}
+
+.strange-dexter::after{
+    content: "";
+    border-left: 6px white solid;
+    border-right: 6px white solid;
+    position: absolute;
+    top: 140px;
+    left: 20px;
+    right: 20px;
+    bottom: 50px;
+    z-index: 1;
+    transition: all .4s;
+    transform: translateY(-110px);
+}
+
+.strange-dexter:hover::before{
+    transform: translateY(20px);
+}
+
+.strange-dexter:hover::after{
+    transform: translateY(20px);
+}
+
+.strange-dexter:hover .p-dexter{
+    transform: translateY(50px);
+    opacity: 1;
+}
+
+.text-julia .h2-julia{
+    text-transform: uppercase;
+    font-size: 26px;
+}
+
+.text-julia .p-julia{
+    padding: 7px 10px;
+    background-color: white;
+    color: #2e3138;
+    font-size: 14px;
+    margin: 3px;
+    width: 230px;
+    transition: all 0.4s;
+}
+
+.passionate-julia{
+    position: relative;
+    width: 417.341px;
+    height: 313px;
+    overflow: hidden;
+}
+
+.julia{
+    transition: all 1s;
+}
+
+.passionate-julia .text-julia{
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    padding-left: 45px;
+    flex-direction: column;
+    color: white;
+}
+
+.passionate-julia:hover .julia{
+    opacity: 0.5;
+    transform: scale(1.1);
+}
+
+.text-julia .h2-julia{
+    position: absolute;
+    transform: translateY(-80px);
+}
+
+.translateX-first{
+    transform: translateX(-300px);
+}
+
+.translateX-second{
+    transform: translateX(-400px);
+}
+
+.translateX-third{
+    transform: translateX(-500px);
+}
+
+.passionate-julia:hover .p-julia{
+    transform: translateX(0px);
+}

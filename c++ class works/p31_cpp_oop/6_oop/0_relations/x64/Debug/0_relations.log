@@ -1,0 +1,2 @@
+﻿MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+\\Mac\itstep\projects\p31\p31_cpp_oop\6_oop\x64\Debug\0_relations.exe : fatal error LNK1120: 1 unresolved externals

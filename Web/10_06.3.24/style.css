@@ -1,0 +1,88 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.main-menu{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.main-menu li{
+    position: relative;
+}
+
+.main-menu a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 700;
+    font-family: "Calibri", sans-serif;
+}
+
+.sub-menu{
+    padding: 0;
+    list-style: none;
+    background-color: white;
+    border-radius: 20px;
+    display: none;
+    position: absolute;
+    transform: translateX(-50%);
+    left: 50%;
+    white-space: nowrap;
+    color: black;
+}
+
+.sub-menu a{
+    color: black;
+    padding: 8px 16px;
+    display: block;
+    border-bottom: 2px black solid;
+    text-align: center;
+}
+
+.sub-menu a:hover{
+    color: orange;
+}
+
+.main-menu li:hover .sub-menu{
+    display: block;
+}
+
+.main-menu i{
+    font-size: 16px;
+    transition: all.5s;
+    margin-left: 5px;
+}
+
+.main-menu li:hover i{
+    transform: rotate(90deg);
+}
+
+.example{
+    width: 250px;
+    border: 1px white solid;
+    transition: all.2s;
+    margin-left: 50%;
+}
+.example:hover{
+    border-color: gold;
+}
+
+/* .example p:hover{
+    color: gold;
+} */
+
+.example:hover h2{
+    color: gold;
+}
+
+.container-menu{
+    width: 500px;
+    padding: 0px 10px;
+}

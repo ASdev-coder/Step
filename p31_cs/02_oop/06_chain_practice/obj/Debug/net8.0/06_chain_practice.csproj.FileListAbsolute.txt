@@ -1,0 +1,14 @@
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\bin\Debug\net8.0\06_chain_practice.exe
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\bin\Debug\net8.0\06_chain_practice.deps.json
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\bin\Debug\net8.0\06_chain_practice.runtimeconfig.json
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\bin\Debug\net8.0\06_chain_practice.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\bin\Debug\net8.0\06_chain_practice.pdb
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\obj\Debug\net8.0\06_chain_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\obj\Debug\net8.0\06_chain_practice.AssemblyInfoInputs.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\obj\Debug\net8.0\06_chain_practice.AssemblyInfo.cs
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\obj\Debug\net8.0\06_chain_practice.csproj.CoreCompileInputs.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\obj\Debug\net8.0\06_chain_practice.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\obj\Debug\net8.0\refint\06_chain_practice.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\obj\Debug\net8.0\06_chain_practice.pdb
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\obj\Debug\net8.0\06_chain_practice.genruntimeconfig.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\06_chain_practice\obj\Debug\net8.0\ref\06_chain_practice.dll

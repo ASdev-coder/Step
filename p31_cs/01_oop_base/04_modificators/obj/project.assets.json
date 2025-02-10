@@ -1,0 +1,96 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "mod_ex/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/mod_ex.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/mod_ex.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mod_ex/1.0.0": {
+      "type": "project",
+      "path": "../mod_ex/mod_ex.csproj",
+      "msbuildProject": "../mod_ex/mod_ex.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "mod_ex >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\silver\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\04_modificators\\04_modificators.csproj",
+      "projectName": "04_modificators",
+      "projectPath": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\04_modificators\\04_modificators.csproj",
+      "packagesPath": "C:\\Users\\silver\\.nuget\\packages\\",
+      "outputPath": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\04_modificators\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\silver\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\mod_ex\\mod_ex.csproj": {
+              "projectPath": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\mod_ex\\mod_ex.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

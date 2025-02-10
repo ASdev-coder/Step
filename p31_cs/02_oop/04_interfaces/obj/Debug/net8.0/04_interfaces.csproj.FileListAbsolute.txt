@@ -1,0 +1,14 @@
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\bin\Debug\net8.0\04_interfaces.exe
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\bin\Debug\net8.0\04_interfaces.deps.json
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\bin\Debug\net8.0\04_interfaces.runtimeconfig.json
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\bin\Debug\net8.0\04_interfaces.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\bin\Debug\net8.0\04_interfaces.pdb
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\obj\Debug\net8.0\04_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\obj\Debug\net8.0\04_interfaces.AssemblyInfoInputs.cache
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\obj\Debug\net8.0\04_interfaces.AssemblyInfo.cs
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\obj\Debug\net8.0\04_interfaces.csproj.CoreCompileInputs.cache
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\obj\Debug\net8.0\04_interfaces.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\obj\Debug\net8.0\refint\04_interfaces.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\obj\Debug\net8.0\04_interfaces.pdb
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\obj\Debug\net8.0\04_interfaces.genruntimeconfig.cache
+\\Mac\itstep\projects\p31\p31_cs\02_oop\04_interfaces\obj\Debug\net8.0\ref\04_interfaces.dll

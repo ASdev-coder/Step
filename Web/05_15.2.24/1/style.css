@@ -1,0 +1,69 @@
+.block{
+    background: #ddd;
+    width: 400px;
+    margin: 20px;
+    padding: 30px;
+    border: 3px red solid;
+    text-align: center;
+    display: inline-block;
+}
+/* padding: 30px; вн відступ */
+p{
+    /* margin-bottom: 4;
+    margin-top: 4; */
+    margin:4px 0 ;
+}
+/* 1em=16px */
+h1{
+    margin-bottom: 8px;
+}
+
+.pic{
+    width: 150px;
+}
+
+/* 
+1. Блочні (Block) - div, h1-h6, p, ol, ul, li
+Займають всю доступну ширину.
+Кожен елеменет починається з нового рядка
+
+---------------------------------------------
+
++ width
++ height
++ margin
++ padding
++ border
++ text-align
+
+
+--------------------------------------------- 
+
+2. Лінійні (Inline) - span, b, i, u, sup, sub
+Займають місце по контенту
+Всі елементи пишуться в один ряд
+
+--------------------------------------------- 
+
+- width
+- height
++- margin (Працює тільки по сторонами (Права/ліва))
++- padding (Інші елементи його не бачать)
++- border (Застосовується для кожного рядка тексту)
++ text-align
+
+---------------------------------------------
+
+3. Лінійно-блочні (inline-block) img
+Займають місце по контенту
+Всі елементи пишуться в один ряд
++ width
++ height
++ margin
++ padding
++ border
+
+
+---------------------------------------------
+
+*/

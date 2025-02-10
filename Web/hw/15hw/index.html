@@ -1,0 +1,68 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.min.css">
+</head>
+<body>
+    <div class="container">
+        <div class="col">
+
+            <div class="text">
+                <h1>Speaker Submission</h1>
+                <p>Want to speak at our fake conference?Fill out this form.</p>
+            </div>
+
+        </div>
+
+        <div class="col second-col">
+
+            <div class="input">
+                <label for="name">Name</label>
+                <input type="text" id="name">
+            </div>
+
+            <div class="input">
+                <label for="email">Email</label>
+                <input type="email" id="email" placeholder="  you@example.com">
+            </div>
+
+            <div class="input">
+                <p class="padding-md-right">Type of Talk</p>
+                <div class="talk-type">
+                    <div class="right-here padding-md-right"><input type="radio" name="Talk" id="Main"><label for="Main">Main Stage</label></div>
+                    <div class="right-here padding-md-right"><input type="radio" name="Talk" id="Workshop"><label for="Workshop">Workshop</label></div>
+                </div>
+            </div>
+
+            <div class="input ">
+                <div class="in-column in-md-row">
+                    <p>T-Shirt Size</p>
+                    <select name="sizes of t-shirt">
+                        <option value="">Extra Small</option>
+                        <option value="">Middle</option>
+                        <option value="">Big</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="input in-md-row" id="comment">
+                <label for="comment"><span>Abstract</span></label>
+                <div>
+                    <textarea name="comments" id="comment" cols="30" rows="10"></textarea>
+                    <p class="text-under-comments">Describe your talk in 500 words or less</p>
+                </div>
+            </div>
+
+            <div class="input">
+                <div class="right-here"><input type="checkbox" id="en"><label for="en"></label>I`m actually avaliable the date of the talk</div>
+            </div>
+
+            <button>Submit</button>
+        </div>
+    </div>
+</body>
+</html>

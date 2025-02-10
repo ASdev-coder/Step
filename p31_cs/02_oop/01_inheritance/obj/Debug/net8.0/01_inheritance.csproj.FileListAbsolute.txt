@@ -1,0 +1,14 @@
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\bin\Debug\net8.0\01_inheritance.exe
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\bin\Debug\net8.0\01_inheritance.deps.json
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\bin\Debug\net8.0\01_inheritance.runtimeconfig.json
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\bin\Debug\net8.0\01_inheritance.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\bin\Debug\net8.0\01_inheritance.pdb
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\obj\Debug\net8.0\01_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\obj\Debug\net8.0\01_inheritance.AssemblyInfoInputs.cache
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\obj\Debug\net8.0\01_inheritance.AssemblyInfo.cs
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\obj\Debug\net8.0\01_inheritance.csproj.CoreCompileInputs.cache
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\obj\Debug\net8.0\01_inheritance.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\obj\Debug\net8.0\refint\01_inheritance.dll
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\obj\Debug\net8.0\01_inheritance.pdb
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\obj\Debug\net8.0\01_inheritance.genruntimeconfig.cache
+\\Mac\itstep\projects\p31\p31_cs\02_oop\01_inheritance\obj\Debug\net8.0\ref\01_inheritance.dll

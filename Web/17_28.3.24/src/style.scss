@@ -1,0 +1,42 @@
+@use 'header';
+@import 'variables';
+body {
+    margin: 0;
+    color: $primary-text;
+}
+
+@mixin shadow($bcolor: #333, $radius: 0px){
+    border: 1px $bcolor solid;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.433);
+    border-radius: $radius;
+}
+
+.product{
+    padding: 20px;
+    width: 20%;
+    @include shadow();
+}
+
+.news{
+    padding: 20px;
+    width: 50%;
+    @include shadow(red, 20px);
+}
+
+@for $i from 1 through $count-columns{
+    .col-#{$i}{
+        width: $i * 100% / $count-columns;
+    }
+}
+
+$breakpoints: (768: "md", 1200: "xl");
+
+@each $size, $name in $breakpoints{
+    @media screen and (min-width: #{$size}px) {
+        @for $i from 1 through $count-columns{
+            .col-#{$name}-#{$i}{
+                width: $i * 100% / $count-columns;
+            }
+        }
+    }
+}

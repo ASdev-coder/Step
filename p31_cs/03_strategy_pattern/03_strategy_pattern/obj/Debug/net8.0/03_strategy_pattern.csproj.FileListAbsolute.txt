@@ -1,0 +1,14 @@
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\bin\Debug\net8.0\03_strategy_pattern.exe
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\bin\Debug\net8.0\03_strategy_pattern.deps.json
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\bin\Debug\net8.0\03_strategy_pattern.runtimeconfig.json
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\bin\Debug\net8.0\03_strategy_pattern.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\bin\Debug\net8.0\03_strategy_pattern.pdb
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\obj\Debug\net8.0\03_strategy_pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\obj\Debug\net8.0\03_strategy_pattern.AssemblyInfoInputs.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\obj\Debug\net8.0\03_strategy_pattern.AssemblyInfo.cs
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\obj\Debug\net8.0\03_strategy_pattern.csproj.CoreCompileInputs.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\obj\Debug\net8.0\03_strategy_pattern.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\obj\Debug\net8.0\refint\03_strategy_pattern.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\obj\Debug\net8.0\03_strategy_pattern.pdb
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\obj\Debug\net8.0\03_strategy_pattern.genruntimeconfig.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\03_strategy_pattern\03_strategy_pattern\obj\Debug\net8.0\ref\03_strategy_pattern.dll

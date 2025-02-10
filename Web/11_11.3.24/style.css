@@ -1,0 +1,126 @@
+
+.pic{
+    transition: all .5s;
+    width: 300px;
+    transform-origin: 50% 50%;
+}
+
+.pic:hover{
+    /* transform: rotate(15deg); */
+    /* transform: scaleX(0); */
+    /* transform: skew(-15deg); */
+    /* transform: translate(0, 50px); */
+}
+
+.block{
+    /* background-color: #ddd; */
+    margin:40px;
+    width: 500px;
+}
+
+.flip{
+    height: 150px;
+    background-color: rgba(137, 43, 226, 0.46);
+    transition: all 1s;
+}
+
+.block:hover .flip{
+    transform: rotateY(180deg);
+}
+
+.flat{
+    transform-style: flat;
+}
+
+.preserve{
+    transform-style: preserve-3d;
+    perspective: 1000px;
+    /* perspective-origin: 100% 100%; */
+}
+
+.flip-effect{
+    perspective: 1000px;
+    margin: 10px;
+}
+
+.card{
+    width: 250px;
+    height: 250px;
+    transform-style: preserve-3d;
+    transition: all 1s;
+    position: relative;
+}
+
+.card:hover{
+    transform: rotateY(180deg);
+
+}
+
+.card-face{
+    position: absolute;
+    top: 0;
+    left: 0;
+    backface-visibility: hidden;
+
+}
+
+.back{
+    background-color: antiquewhite;
+    color:black;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: rotateY(180deg);
+}
+
+.front{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.couch img{
+    transition: all 0.5s;
+}
+
+.couch-photo{
+    border: 1px red solid;
+    background-color: black;
+    overflow:hidden;
+    position: relative;
+}
+
+.couch:hover img{
+    opacity: 0.7;
+    transform: scale(1.1);
+}
+
+.icons a{
+    color: black;
+    text-decoration: none;
+    width: 30px;
+    height: 30px;
+    background-color: chartreuse;
+    display: flex;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+}
+
+.icons{
+    display: none;
+    gap: 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+.couch:hover .icons{
+    display: flex;
+}

@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    font-family: "Calibri", sans-serif;
+}
+
+header {
+    background-color: #161616;
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+}
+
+a:hover {
+    color: yellow;
+}
+
+.color-yellow {
+    color: #c3e92d;
+}
+
+.text-centre {
+    text-align: center;
+}
+
+h1 {
+    font-size: 44px;
+    font-weight: 600;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.col {
+    padding: 15px;
+}
+
+p {
+    margin: 0;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+hr {
+    width: 70%;
+}
+
+.margin-bottom {
+    margin-bottom: 0;
+}
+
+.thin {
+    font-weight: 200;
+}

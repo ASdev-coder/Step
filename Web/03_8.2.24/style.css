@@ -1,0 +1,35 @@
+h1{
+    /* font-family: 'Comic Sans MS','Arial'; */
+    font-family: 'Lobster', sans-serif;
+}
+h2{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    font-weight: 200;
+}
+.list-1{
+    list-style-type: circle;
+    list-style-position: outside;
+    /* list-style-type: square;
+    list-style-type: disc; */
+    list-style-image: url(./markers/arrow.gif);
+}
+.list-2{
+    list-style-type: upper-roman;
+ 
+}
+dt{
+    font-weight: 700;
+    color: red;
+
+}
+dd{
+    font-weight: 500;
+    color: green;
+}
+.Alpha{
+    list-style: lower-alpha;
+}

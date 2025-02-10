@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="grid.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+
+        <div class="container-fluid">
+            <div class="row  justify-content-between">
+                <div class="col-4">Logo</div>
+                <div class="col-4">
+                    <input type="text"><button>Search</button>
+                </div>
+                <div class="col-4 text-right">068-64-90-969</div>
+            </div>
+        </div>
+        
+    </header>
+    <main class="main">
+        <form action="">
+
+            <div>
+                <label for="username">Username: </label>
+                <input type="text" id="username">
+            </div>
+
+            <div>
+                <label for="password">Password: </label>
+                <input type="password" id="password">
+            </div>
+
+            <div>
+                <label for="country">Country</label>
+                <select name="Country" id="country">
+                    <option value="">Ukraine</option>
+                    <option value="">USA</option>
+                    <option value="">Canada</option>
+                </select>
+            </div>
+
+            <div>
+                <div><input type="radio" name="gender" id="male"><label for="male">Male</label>  </div>
+                <div><input type="radio" name="gender" id="female"><label for="female">Female</label></div>
+                <div><input type="radio" name="gender" id="other"><label for="other">Other</label></div>
+            </div>
+
+            <div>
+                <div><input type="checkbox" id="en"><label for="en"></label>English</div>
+                <div><input type="checkbox" id="ru"><label for="ru"></label>Русский</div>
+                <div><input type="checkbox" id="ua"><label for="ua"></label>Українська</div>
+            </div>
+
+            <div>
+                <label for="message">Message: </label>
+                <textarea name="" id="" cols="30" rows="10"></textarea>
+            </div>
+
+            <button>Send</button>
+            <input type="submit" value="Send">
+            <input type="reset" value="reset">
+        </form>
+    </main>
+    <aside class="aside-left">Aside-left</aside>
+    <aside class="aside-right">Aside-right</aside>
+    <footer class="footer">Footer</footer>
+</body>
+</html>

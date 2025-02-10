@@ -1,0 +1,14 @@
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\bin\Debug\net8.0\00_intro.exe
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\bin\Debug\net8.0\00_intro.deps.json
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\bin\Debug\net8.0\00_intro.runtimeconfig.json
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\bin\Debug\net8.0\00_intro.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\bin\Debug\net8.0\00_intro.pdb
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\obj\Debug\net8.0\00_intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\obj\Debug\net8.0\00_intro.AssemblyInfoInputs.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\obj\Debug\net8.0\00_intro.AssemblyInfo.cs
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\obj\Debug\net8.0\00_intro.csproj.CoreCompileInputs.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\obj\Debug\net8.0\00_intro.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\obj\Debug\net8.0\refint\00_intro.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\obj\Debug\net8.0\00_intro.pdb
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\obj\Debug\net8.0\00_intro.genruntimeconfig.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\00_intro\00_intro\obj\Debug\net8.0\ref\00_intro.dll

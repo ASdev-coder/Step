@@ -1,0 +1,134 @@
+:root {
+    --main-color: #46cca4;
+}
+
+body{
+    font-family: "Calibri", sans-serif;
+    background-color: #f8f8f8;
+}
+
+.col-12{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.col-12 h2{
+    margin: 0;
+    color: var(--main-color);
+}
+
+.col-12 h1{
+    margin: 8px;
+    font-size: 28px;
+}
+
+.flowers img{
+    border-radius: 0px 15px 15px 15px;
+}
+
+.row{
+    margin-bottom: 35px;
+}
+
+.flowers{
+    position: relative;
+}
+
+.date{
+    padding: 5px 10px;
+    background-color: var(--main-color);
+    border-radius: 0px 5px 5px 5px;
+    color: white;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.date p{
+    margin: 0;
+    font-size: 10px;
+    font-weight: 700;
+}
+
+.text{
+    background-color: white;
+    padding: 10px 25px;
+    position: absolute;
+    right: 50%;
+    transform: translateX(50%) translateY(-50%);
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    transition: all .5s;
+    border-radius: 0px 5px 5px 5px;
+}
+
+.text p{
+    font-size: 9px;
+    margin: 3px 0px;
+    text-align: center;
+}
+
+.text h3{
+    font-size: 12px;
+    margin: 0;
+}
+
+.more-info{
+    color: var(--main-color);
+    position: relative;
+}
+
+.flowers:hover .text{
+    transform: translateX(50%) translateY(-60%);
+}
+
+.more-info::after{
+    content: "";
+    display: block;
+    border-top: 1px var(--main-color) solid;
+    width: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateY(-50%) translateX(-50%) ;
+    z-index: 0;
+    transition: all .5s;
+}
+
+p span{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+    padding: 0px 15px;
+    z-index: 1;
+    background-color: white;
+    left: -50%;
+    transition: all .5s;
+}
+
+p span:hover{
+    left: 25%;
+}
+
+p.icon{
+    margin: 0;
+    position: absolute;
+    top: 75%;
+    left: 85%;
+    transform: translateY(-5%);
+    color: var(--main-color);
+}
+
+i{
+    font-size: 8px;
+}

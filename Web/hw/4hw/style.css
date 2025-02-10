@@ -1,0 +1,68 @@
+.name {
+    text-align: center;
+    background-color: black;
+    color: orange;
+    height: 100px;
+    line-height: 100px;
+}
+
+body {
+    margin: 0px;
+    font-family: "Calibri", sans-serif;
+}
+
+h1 {
+    margin: 0px;
+}
+
+.link {
+    color: black;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: rgb(211, 2, 2);
+    font-weight: bolder;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.container {
+    background-color: #e0e0e0;
+    padding: 46px;
+    border: 1px rgb(178, 137, 137) solid;
+}
+
+a {
+    font-size: 24px;
+}
+
+.home-link {
+    text-decoration: none;
+    color: orange;
+    font-size: 1em;
+}
+
+.home-link:hover {
+    color: white;
+    font-weight: bolder;
+}
+
+.img{
+    height: 200px;
+    float: left;
+    border-radius: 55px;
+    margin: 10px;
+}
+
+p{
+    font-size: 24px;
+    padding: 5px;
+}
+
+.zodiac{
+    width: 60%;
+}

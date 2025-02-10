@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\02_oop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96BE974A-614B-4D6C-9CFE-9AFBE740CB63}|05_exceptions\\05_exceptions.csproj|\\\\mac\\itstep\\projects\\p31\\p31_cs\\02_oop\\05_exceptions\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8B0A81-D9E7-4DC9-9C73-303D5891CAB7}|04_interfaces\\04_interfaces.csproj|\\\\mac\\itstep\\projects\\p31\\p31_cs\\02_oop\\04_interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\02_oop\\05_exceptions\\Program.cs",
+              "RelativeDocumentMoniker": "05_exceptions\\Program.cs",
+              "ToolTip": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\02_oop\\05_exceptions\\Program.cs",
+              "RelativeToolTip": "05_exceptions\\Program.cs",
+              "ViewState": "AQIAAFAAAACAzMzMzAwwwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:59:29.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\02_oop\\04_interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "04_interfaces\\Program.cs",
+              "ToolTip": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\02_oop\\04_interfaces\\Program.cs",
+              "RelativeToolTip": "04_interfaces\\Program.cs",
+              "ViewState": "AQIAAGIBAAAAzMzMzEwbwBIDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:41:07.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

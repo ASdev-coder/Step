@@ -1,0 +1,3 @@
+﻿  2_structs.cpp
+Y:\projects\p31\0_intro\2_structs\2_structs.cpp(234,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  2_structs.vcxproj -> Y:\projects\p31\0_intro\x64\Debug\2_structs.exe

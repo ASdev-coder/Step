@@ -1,0 +1,56 @@
+body {
+    background-color: rgb(46, 46, 154);
+}
+
+.main {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(3, 150px);
+    gap: 10px;
+    width: 750px;
+    height: 500px;
+    position: absolute;
+    left: 50%;
+    transform: translateY(-50%);
+    transform: translateX(-50%);
+}
+
+.block {
+    padding: 20px;
+    background-color: rgb(85, 211, 6);
+}
+
+.main .block:nth-child(1) {
+    background-color: rgb(85, 211, 6);
+    grid-row: span 3;
+}
+
+.main .block:nth-child(2) {
+    background-color: rgb(85, 211, 6);
+    grid-column: span 2;
+}
+
+.main .block:nth-child(3) {
+    background-color: red;
+}
+
+.main .block:nth-child(4) {
+    background-color: rgb(235, 158, 17);
+}
+
+.main .block:nth-child(5) {
+    background-color: red;
+}
+
+.main .block:nth-child(6) {
+    background-color: rgb(85, 211, 6);
+    grid-row: span 2;
+}
+
+.main .block:nth-child(7) {
+    background-color: red;
+}
+
+.main .block:nth-child(8) {
+    background-color: rgb(235, 158, 17);
+}

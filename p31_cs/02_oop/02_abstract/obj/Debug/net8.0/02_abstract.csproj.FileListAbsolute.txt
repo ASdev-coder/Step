@@ -1,0 +1,14 @@
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\bin\Debug\net8.0\02_abstract.exe
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\bin\Debug\net8.0\02_abstract.deps.json
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\bin\Debug\net8.0\02_abstract.runtimeconfig.json
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\bin\Debug\net8.0\02_abstract.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\bin\Debug\net8.0\02_abstract.pdb
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\obj\Debug\net8.0\02_abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\obj\Debug\net8.0\02_abstract.AssemblyInfoInputs.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\obj\Debug\net8.0\02_abstract.AssemblyInfo.cs
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\obj\Debug\net8.0\02_abstract.csproj.CoreCompileInputs.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\obj\Debug\net8.0\02_abstract.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\obj\Debug\net8.0\refint\02_abstract.dll
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\obj\Debug\net8.0\02_abstract.pdb
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\obj\Debug\net8.0\02_abstract.genruntimeconfig.cache
+C:\Users\antsk\OneDrive\Изображения\Рабочий стол\Step\p31_cs\02_oop\02_abstract\obj\Debug\net8.0\ref\02_abstract.dll

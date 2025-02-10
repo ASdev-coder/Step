@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\antsk\\OneDrive\\\u0418\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Step\\p31_cs\\01_oop_base\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{897E0A92-9F8E-46C2-A3EF-53BA64EF37EF}|FileToolKit\\FileToolKit.csproj|c:\\users\\antsk\\onedrive\\\u0438\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\step\\p31_cs\\01_oop_base\\filetoolkit\\filetoolkit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{897E0A92-9F8E-46C2-A3EF-53BA64EF37EF}|FileToolKit\\FileToolKit.csproj|solutionrelative:filetoolkit\\filetoolkit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1559,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileToolKit.csproj",
+              "DocumentMoniker": "C:\\Users\\antsk\\OneDrive\\\u0418\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Step\\p31_cs\\01_oop_base\\FileToolKit\\FileToolKit.csproj",
+              "RelativeDocumentMoniker": "FileToolKit\\FileToolKit.csproj",
+              "ToolTip": "C:\\Users\\antsk\\OneDrive\\\u0418\u0437\u043E\u0431\u0440\u0430\u0436\u0435\u043D\u0438\u044F\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\Step\\p31_cs\\01_oop_base\\FileToolKit\\FileToolKit.csproj",
+              "RelativeToolTip": "FileToolKit\\FileToolKit.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-20T20:04:46.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+}
+
+img {
+    max-width: 100%;
+    width: 345px;
+
+}
+
+.border-left {
+    border-left: 4px red solid;
+    padding-left: 8px;
+}
+
+.pad {
+    padding-top: 40px;
+}
+
+.img_i {
+    width: 200px;
+}
+
+.img_d {
+    width: 250px;
+}
+
+.pad_1 {
+    padding-top: 20px;
+}
+
+
+.col-12 {
+    display: flex;
+    justify-content: center;
+    margin-top: 90px;
+    margin-bottom: 70px;
+}
+
+.bigger {
+    width: 200px;
+    min-height: 200px;
+}

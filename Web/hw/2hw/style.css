@@ -1,0 +1,15 @@
+body{
+   background-color:rgb(255, 182, 193);
+   font-weight:bolder;
+}
+.Array{
+   list-style-type: circle;
+   list-style-position: outside;
+   list-style-image: url(/2hw/arrow.gif);
+}
+ol{
+   list-style-image: none;
+ }
+ul{
+   font-family: "Protest Strike", sans-serif;
+}

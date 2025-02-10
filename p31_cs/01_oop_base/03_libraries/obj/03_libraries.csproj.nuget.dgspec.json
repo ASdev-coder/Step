@@ -1,0 +1,138 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\03_libraries\\03_libraries.csproj": {}
+  },
+  "projects": {
+    "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\03_libraries\\03_libraries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\03_libraries\\03_libraries.csproj",
+        "projectName": "03_libraries",
+        "projectPath": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\03_libraries\\03_libraries.csproj",
+        "packagesPath": "C:\\Users\\silver\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\03_libraries\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\silver\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\MathEngine\\MathEngine.csproj": {
+                "projectPath": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\MathEngine\\MathEngine.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\MathEngine\\MathEngine.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\MathEngine\\MathEngine.csproj",
+        "projectName": "MathEngine",
+        "projectPath": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\MathEngine\\MathEngine.csproj",
+        "packagesPath": "C:\\Users\\silver\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\itstep\\projects\\p31\\p31_cs\\01_oop_base\\MathEngine\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\silver\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
