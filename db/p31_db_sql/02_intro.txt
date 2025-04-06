@@ -1,0 +1,34 @@
+== Operators ==
+
++ - / * %
+
+AND OR NOT
+
+< > <= >= =(C++ --> ==) <>(C++ --> !=)
+
+IN ANY...
+
+DECLARE @a int;	(C++ --> int a)
+SET @a ...
+
+IF
+CASE (C++ --> switch/case)
+WHILE
+FOR
+
+COUNT() MAX() MIN() SUM() ABS() ...
+
+/*
+	comment
+*/
+
+-- comment
+
+
+
+=== ������ ���������� SQL ===
+DML(Data Manipulation Language) SELECT UPDATE INSERT DELETE MERGE ...
+DDL(Data Difinition Language) CREATE ALTER DROP ...
+DCL(Data Control Language) GRANT DENY REVOKE...
+
+
